@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MLflow
+mlruns/
+*.db
+mlflow.db
+
+# OS gerados (Mac/Windows)
+.DS_Store
+Thumbs.db
